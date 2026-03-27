@@ -50,6 +50,8 @@ npm run dev
 This project is available in different tiers (Standard/Developer/Enterprise).
 To access the full source code and commercial license, please visit:
 
-👉 [Get it on Gumroad](https://duoyunan.gumroad.com/l/candataparserplatform)
+👉 **[Click here to get it on Gumroad ↗️](https://duoyunan.gumroad.com/l/candataparserplatform)**
+
+*Includes lifetime updates and a commercial-friendly license.*
 
 Note: This platform currently supports CAN 2.0 (Standard/Extended). CAN-FD is not supported.
