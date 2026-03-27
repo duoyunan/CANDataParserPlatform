@@ -46,7 +46,9 @@ Bash
 npm install
 npm run dev
 
+
 📄 License & Source Code
+
 This project is available in different tiers (Standard/Developer/Enterprise).
 To access the full source code and commercial license, please visit:
 
