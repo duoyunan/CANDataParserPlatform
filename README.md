@@ -14,8 +14,10 @@ A high-performance, web-based tool for decoding CAN 2.0 messages and visualizing
 ---
 
 ## 📸 Screenshots
-![Main Interface](./screenshots/main_ui.png)
-![Signal Analysis](./screenshots/charts.png)
+![Main Interface](./pics/1.png)
+![DBC File Parsing](./pics/2.png)
+![CAN Data Parsing](./pics/3.png)
+![CAN Signal Analysis](./pics/4.png)
 
 ---
 
