@@ -41,9 +41,8 @@ A high-performance, web-based tool for decoding CAN 2.0 messages and visualizing
    ```
    
 ### 2. Frontend Setup
-Ensure Node.js (v18+) is installed.
-
-Navigate to `/frontend` and run:
+1. Ensure Node.js (v18+) is installed.
+2. Navigate to `/frontend` and run:
    ```bash
    npm install
    npm run dev
