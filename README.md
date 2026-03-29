@@ -38,17 +38,17 @@ A high-performance, web-based tool for decoding CAN 2.0 messages and visualizing
    ```bash
    mvn clean compile
    mvn spring-boot:run
+   ```
    
 ### 2. Frontend Setup
 Ensure Node.js (v18+) is installed.
 
-Navigate to /frontend and run:
-
+Navigate to `/frontend` and run:
    ```bash
    npm install
    npm run dev
-
-
+   ```
+   
 ## 📄 License & Source Code
 
 This project is available in different tiers (Standard/Developer/Enterprise).
